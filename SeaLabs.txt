@@ -1,2 +1,6 @@
 Sea Labs Indonesia
+<<<<<<< HEAD
 Michael
+=======
+Tarigan
+>>>>>>> feat-2
